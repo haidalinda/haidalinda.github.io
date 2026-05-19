@@ -1,12 +1,12 @@
 [{
     "first_name": "Harlan",
-    "last_name": "Kellaway",
-    "email": "hello@harlankellaway.com",
-    "title": "iOS Developer",
+    "last_name": "Aidalinda",
+    "email": "5456481+hkellaway@users.noreply.github.com",
+    "title": "iOS Engineer",
     "social_profiles": [
         {
             "name": "GitHub",
-            "url": "http://github.com/hkellaway"
+            "url": "http://github.com/haidalinda"
         },
         {
             "name": "Stackoverflow",
@@ -14,11 +14,11 @@
         },
         {
             "name": "LinkedIn",
-            "url": "http://linkedin.com/in/hkellaway"
+            "url": "http://linkedin.com/in/harlancodes"
         },
         {
             "name": "Blog",
-            "url": "http://harlankellaway.com/blog"
+            "url": "http://haidalinda.github.io"
         }
     ]
 }]
